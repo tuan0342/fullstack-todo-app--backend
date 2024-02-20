@@ -6,7 +6,7 @@ Using NodeJs, ExpressJS and MongoDB
 
 ### Description API: 
 - GET ALL TODO: '/'
-  + Get all todo from mongodb [https://www.mongodb.com](https://www.mongodb.com/)
+  + Get all todo from mongodb (using [https://www.mongodb.com](https://www.mongodb.com/))
 - CREATE NEW TODO: '/save'
   + Create new todo
   + Example:
