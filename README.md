@@ -10,7 +10,7 @@ Using NodeJs, ExpressJS and MongoDB
 - CREATE NEW TODO: '/save'
   + Create new todo
   + Example:
-    JSON format:
+    body (JSON format):
        {
           "text": "Buy milk 2"
        }
